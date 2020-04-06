@@ -1,0 +1,10 @@
+* Upcomming Tasks
+
+
+* To Learn More About Emacs
+** TODO Jump to previous cursor point                                           :EMACS:
+   [2020-04-06 Mon 13:10]
+** TODO Shrink lines into one white space                                       :EMACS:
+   [2020-04-06 Mon 13:10]
+** TODO Kill buffer and close window                                            :EMACS:
+   [2020-04-06 Mon 14:24]
