@@ -8,3 +8,5 @@
    [2020-04-06 Mon 13:10]
 ** TODO Kill buffer and close window                                            :EMACS:
    [2020-04-06 Mon 14:24]
+** TODO Lookup English words                                                    :EMACS:
+   [2020-04-06 Mon 15:35]
