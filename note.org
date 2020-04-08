@@ -1,0 +1,20 @@
+* 2020
+** 2020-04 April
+*** 2020-04-07 Tuesday
+**** Artificial intelligence should RESPECT human's willing                     :NOTE:
+     - Google Reader
+     - RSS
+     - Feedly
+     - Pocket
+     - Podcast
+     - Media (WSJ, The New Yorker)
+     - New Media (Reddit, Zhihu)
+     - Gabage (Toutiao)
+     The trend is:
+       more and more investment into AI.
+       Hoping AI could make the best recommendation to people's
+       DAILY READING FEED
+     My conclusion:
+       AI should RESPECT human's willing
+       not taking over everything and decide for us
+     [2020-04-07 Tue 23:34]
