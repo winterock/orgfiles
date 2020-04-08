@@ -8,9 +8,18 @@
    [2020-04-06 Mon 13:10]
 ** TODO Kill buffer and close window                                            :EMACS:
    [2020-04-06 Mon 14:24]
-** TODO Lookup English words                                                    :EMACS:
+** DONE Lookup English words                                                    :EMACS:
+   CLOSED: [2020-04-08 Wed 11:11]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-04-08 Wed 11:11]
+   :END:
    [2020-04-06 Mon 15:35]
 ** TODO Kubenetes integration                                                   :EMACS:
    [2020-04-06 Mon 23:18]
 ** TODO Docker integration                                                      :EMACS:
    [2020-04-06 Mon 23:18]
+** TODO Clean up config for sharing                                             :EMACS:
+   [2020-04-08 Wed 12:17]
+** CANCELLED Fast load                                                          :EMACS:
+   CLOSED: [2020-04-08 Wed 15:57]
+   [2020-04-08 Wed 15:39]
